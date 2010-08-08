@@ -1,0 +1,321 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1332, 696}}";
+			sepNavSelRange = "{44, 1}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* ApacheBenchAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {729, 1021}}";
+			sepNavSelRange = "{1320, 0}";
+			sepNavVisRange = "{0, 1327}";
+			sepNavWindowFrame = "{{73, 29}, {788, 1149}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* ApacheBenchAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 1530}}";
+			sepNavSelRange = "{2245, 0}";
+			sepNavVisRange = "{545, 1889}";
+			sepNavWindowFrame = "{{873, 3}, {1042, 1175}}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* ApacheBench_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1332, 690}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 153}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A4602686120DDE3C0001333E /* ApacheBench */;
+		activeTarget = 8D1107260486CEB800E47090 /* ApacheBench */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* ApacheBench */,
+		);
+		breakpoints = (
+			A4EFC3E5120EFE2600603ED0 /* ApacheBenchAppDelegate.m:25 */,
+		);
+		codeSenseManager = A4602691120DDE520001333E /* Code sense */;
+		executables = (
+			A4602686120DDE3C0001333E /* ApacheBench */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1154,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302982653;
+			PBXWorkspaceStateSaveDate = 302982653;
+		};
+		perUserProjectItems = {
+			A46026DF120E270D0001333E = A46026DF120E270D0001333E /* PBXTextBookmark */;
+			A46026E4120E270D0001333E = A46026E4120E270D0001333E /* PBXTextBookmark */;
+			A4EFC3E9120EFE2A00603ED0 = A4EFC3E9120EFE2A00603ED0 /* PBXTextBookmark */;
+			A4EFC5AC120F25F600603ED0 = A4EFC5AC120F25F600603ED0 /* PBXTextBookmark */;
+			A4EFC5AD120F25F600603ED0 = A4EFC5AD120F25F600603ED0 /* PBXTextBookmark */;
+			A4EFC5AE120F25F600603ED0 = A4EFC5AE120F25F600603ED0 /* PlistBookmark */;
+			A4EFC5AF120F25F600603ED0 = A4EFC5AF120F25F600603ED0 /* PBXTextBookmark */;
+			A4EFC5B0120F25F600603ED0 = A4EFC5B0120F25F600603ED0 /* PBXTextBookmark */;
+			A4EFC5B1120F25F600603ED0 = A4EFC5B1120F25F600603ED0 /* PBXTextBookmark */;
+			A4EFC5B2120F25F600603ED0 = A4EFC5B2120F25F600603ED0 /* PBXTextBookmark */;
+			A4EFC5BA120F261100603ED0 /* PBXTextBookmark */ = A4EFC5BA120F261100603ED0 /* PBXTextBookmark */;
+			A4EFC5BB120F261100603ED0 /* PBXTextBookmark */ = A4EFC5BB120F261100603ED0 /* PBXTextBookmark */;
+			A4EFC5BC120F261100603ED0 /* PlistBookmark */ = A4EFC5BC120F261100603ED0 /* PlistBookmark */;
+			A4EFC5BF120F261100603ED0 /* PBXTextBookmark */ = A4EFC5BF120F261100603ED0 /* PBXTextBookmark */;
+			A4EFC5C0120F261100603ED0 /* PBXTextBookmark */ = A4EFC5C0120F261100603ED0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A4602690120DDE520001333E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1332, 690}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 254}";
+		};
+	};
+	8D1107260486CEB800E47090 /* ApacheBench */ = {
+		activeExec = 0;
+		executables = (
+			A4602686120DDE3C0001333E /* ApacheBench */,
+		);
+	};
+	A4602686120DDE3C0001333E /* ApacheBench */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ApacheBench;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A4602690120DDE520001333E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A4602691120DDE520001333E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A46026DF120E270D0001333E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* ApacheBenchAppDelegate.h */;
+		name = "ApacheBenchAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 438;
+		vrLoc = 0;
+	};
+	A46026E4120E270D0001333E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* ApacheBenchAppDelegate.h */;
+		name = "ApacheBenchAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 668;
+		rType = 0;
+		vrLen = 456;
+		vrLoc = 0;
+	};
+	A4EFC3E5120EFE2600603ED0 /* ApacheBenchAppDelegate.m:25 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* ApacheBenchAppDelegate.m */;
+		functionName = "-noOfRequests:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 25;
+		modificationTime = 302972454.810023;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	A4EFC3E9120EFE2A00603ED0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ApacheBenchAppDelegate.m */;
+		name = "ApacheBenchAppDelegate.m: 67";
+		rLen = 0;
+		rLoc = 2433;
+		rType = 0;
+		vrLen = 1662;
+		vrLoc = 186;
+	};
+	A4EFC5AC120F25F600603ED0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ApacheBenchAppDelegate.m */;
+		name = "ApacheBenchAppDelegate.m: 89";
+		rLen = 0;
+		rLoc = 2437;
+		rType = 0;
+		vrLen = 1244;
+		vrLoc = 979;
+	};
+	A4EFC5AD120F25F600603ED0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 2";
+		rLen = 1;
+		rLoc = 44;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	A4EFC5AE120F25F600603ED0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ApacheBench-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBench-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	A4EFC5AF120F25F600603ED0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	A4EFC5B0120F25F600603ED0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	A4EFC5B1120F25F600603ED0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ApacheBenchAppDelegate.m */;
+		name = "ApacheBenchAppDelegate.m: 81";
+		rLen = 0;
+		rLoc = 2245;
+		rType = 0;
+		vrLen = 1927;
+		vrLoc = 507;
+	};
+	A4EFC5B2120F25F600603ED0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* ApacheBenchAppDelegate.h */;
+		name = "ApacheBenchAppDelegate.h: 50";
+		rLen = 0;
+		rLoc = 1320;
+		rType = 0;
+		vrLen = 1327;
+		vrLoc = 0;
+	};
+	A4EFC5BA120F261100603ED0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	A4EFC5BB120F261100603ED0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* ApacheBench_Prefix.pch */;
+		name = "ApacheBench_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 153;
+		vrLoc = 0;
+	};
+	A4EFC5BC120F261100603ED0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ApacheBench-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBench-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	A4EFC5BF120F261100603ED0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ApacheBenchAppDelegate.m */;
+		name = "ApacheBenchAppDelegate.m: 81";
+		rLen = 0;
+		rLoc = 2245;
+		rType = 0;
+		vrLen = 1889;
+		vrLoc = 545;
+	};
+	A4EFC5C0120F261100603ED0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* ApacheBenchAppDelegate.h */;
+		name = "ApacheBenchAppDelegate.h: 50";
+		rLen = 0;
+		rLoc = 1320;
+		rType = 0;
+		vrLen = 1327;
+		vrLoc = 0;
+	};
+}
