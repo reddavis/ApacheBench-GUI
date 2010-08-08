@@ -26,6 +26,8 @@
   
   sliderValue = [[NSString alloc] initWithFormat:@"%i", [noRequestSlider intValue]];
   [self.noRequestField setStringValue: sliderValue];
+  
+  [sliderValue release];
 }
 
 // Update noConcurrencyField to value of slider
@@ -34,6 +36,8 @@
   
   sliderValue = [[NSString alloc] initWithFormat:@"%i", [noConcurrencySlider intValue]];
   [self.noConcurrencyField setStringValue: sliderValue];
+  
+  [sliderValue release];
 }
 
 -(void) startSpinner {
@@ -46,6 +50,8 @@
 
 // Sends request to ApacheBench
 -(IBAction) apacheBenchIt:(id)sender {
+  NSTask *aBench;
+  
   // Hide button
   [self startSpinner];
   
@@ -80,6 +86,12 @@
   
   [self stopSpinner];
   [self.outputField insertText:string_output];
+  
+  //Release memory
+  [aBench release];
+  [requests release];
+  [concurrency release];
+  [string_output release];
 }
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {

@@ -24,7 +24,6 @@
   
   // Result field
   NSTextView *outputField;
-  NSTask *aBench;
   
   // Send Button
   NSButton *sendButton;

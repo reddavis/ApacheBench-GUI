@@ -1,3 +1,0 @@
-/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchAppDelegate.m:89: warning: incomplete implementation of class 'ApacheBenchAppDelegate'
-/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchAppDelegate.m:89: warning: method definition for '-stopSpinnerShowButton' not found
-/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchAppDelegate.m:89: warning: method definition for '-startSpinnerHideButton' not found

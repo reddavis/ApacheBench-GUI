@@ -1,225 +1,0 @@
-TApacheBench
-v7
-r0
-t302982821.454928
-cCheck dependencies
-cProcessInfoPlistFile /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/Info.plist ApacheBench-Info.plist
-cCopyStringsFile /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cCompileXIB /Users/reddavis/Documents/projects/cocoa/ApacheBench/English.lproj/MainMenu.xib
-cProcessPCH /var/folders/IG/IGBU9X11EtSQ0a3FLOQLqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApacheBench_Prefix-bmwfilsaalaxzjbklyafiqumsyvd/ApacheBench_Prefix.pch.gch ApacheBench_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/main.o /Users/reddavis/Documents/projects/cocoa/ApacheBench/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/ApacheBenchAppDelegate.o /Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/MacOS/ApacheBench normal x86_64
-cTouch /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004A1F2D63000000000000A5E0
-t1243557219
-s42464
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchAppDelegate.h
-c000000004C5EEBF0000000000000052F
-t1281289200
-s1327
-i<Cocoa/Cocoa.h>
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchAppDelegate.m
-c000000004C5EEBE9000000000000098A
-t1281289193
-s2442
-i"ApacheBenchAppDelegate.h"
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchCaller.h
-c000000004C5DA8B000000000000000F4
-t1281206448
-s244
-i<Cocoa/Cocoa.h>
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchCaller.m
-c000000004C5DA9360000000000000104
-t1281206582
-s260
-i"ApacheBenchCaller.h"
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBench_Prefix.pch
-c000000004C5DA6BC0000000000000099
-t1281205948
-s153
-i<Cocoa/Cocoa.h>
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/English.lproj/InfoPlist.strings
-c000000004C5EEE51000000000000002D
-t1281289809
-s45
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/English.lproj/MainMenu.xib
-c000000004C5EEC1500000000000357F7
-t1281289237
-s219127
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/ApacheBench.LinkFileList
-c000000004C5DE18C0000000000000116
-t1281221004
-s278
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/ApacheBenchAppDelegate.o
-t1281289239
-s45416
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/ApacheBenchCaller.o
-t1281208061
-s6996
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/main.o
-t1281208061
-s5016
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app
-t1281290021
-s102
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/Info.plist
-t1281290021
-s898
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/MacOS/ApacheBench
-t1281289239
-s23992
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/PkgInfo
-t1281290021
-s8
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1281290021
-s92
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/Resources/English.lproj/MainMenu.nib
-t1281289239
-s43780
-
-N/Users/reddavis/Documents/projects/cocoa/ApacheBench/main.m
-c000000004C5DA6BC00000000000000FE
-t1281205948
-s254
-i<Cocoa/Cocoa.h>
-
-N/var/folders/IG/IGBU9X11EtSQ0a3FLOQLqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApacheBench_Prefix-bmwfilsaalaxzjbklyafiqumsyvd/ApacheBench_Prefix.pch.gch
-t1281208060
-s54265616
-
-NApacheBench-Info.plist
-c000000004C5EEF2400000000000003EA
-t1281290020
-s1002
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies302982820#302982821#0(0"0(0#1#0"8604665952#0"0#
-
-CCompileC build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/ApacheBenchAppDelegate.o /Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s302982039.498229
-e302982039.712981
-r1
-xCompileC
-xbuild/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/ApacheBenchAppDelegate.o
-x/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchAppDelegate.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@85"Compile /Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchAppDelegate.m302982039#302982039#0(0"0(0#0#77"/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchAppDelegate.m8631765568#1720"    cd /Users/reddavis/Documents/projects/cocoa/ApacheBench    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-generated-files.hmap -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-own-target-headers.hmap -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-all-target-headers.hmap -iquote /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-project-headers.hmap -F/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/include -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/DerivedSources/x86_64 -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/DerivedSources -include /var/folders/IG/IGBU9X11EtSQ0a3FLOQLqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApacheBench_Prefix-bmwfilsaalaxzjbklyafiqumsyvd/ApacheBench_Prefix.pch -c /Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchAppDelegate.m -o /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/ApacheBenchAppDelegate.o0#
-
-CCompileC build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/ApacheBenchCaller.o /Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchCaller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s302900861.333826
-e302900861.520329
-r1
-xCompileC
-xbuild/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/ApacheBenchCaller.o
-x/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchCaller.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@80"Compile /Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchCaller.m302900861#302900861#0(0"0(0#0#72"/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchCaller.m8621024544#1710"    cd /Users/reddavis/Documents/projects/cocoa/ApacheBench    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-generated-files.hmap -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-own-target-headers.hmap -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-all-target-headers.hmap -iquote /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-project-headers.hmap -F/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/include -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/DerivedSources/x86_64 -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/DerivedSources -include /var/folders/IG/IGBU9X11EtSQ0a3FLOQLqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApacheBench_Prefix-bmwfilsaalaxzjbklyafiqumsyvd/ApacheBench_Prefix.pch -c /Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBenchCaller.m -o /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/ApacheBenchCaller.o0#
-
-CCompileC build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/main.o /Users/reddavis/Documents/projects/cocoa/ApacheBench/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s302900861.086958
-e302900861.333713
-r1
-xCompileC
-xbuild/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/main.o
-x/Users/reddavis/Documents/projects/cocoa/ApacheBench/main.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@67"Compile /Users/reddavis/Documents/projects/cocoa/ApacheBench/main.m302900861#302900861#0(0"0(0#0#59"/Users/reddavis/Documents/projects/cocoa/ApacheBench/main.m8631336160#1684"    cd /Users/reddavis/Documents/projects/cocoa/ApacheBench    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-generated-files.hmap -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-own-target-headers.hmap -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-all-target-headers.hmap -iquote /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-project-headers.hmap -F/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/include -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/DerivedSources/x86_64 -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/DerivedSources -include /var/folders/IG/IGBU9X11EtSQ0a3FLOQLqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApacheBench_Prefix-bmwfilsaalaxzjbklyafiqumsyvd/ApacheBench_Prefix.pch -c /Users/reddavis/Documents/projects/cocoa/ApacheBench/main.m -o /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/main.o0#
-
-CCompileXIB /Users/reddavis/Documents/projects/cocoa/ApacheBench/English.lproj/MainMenu.xib
-s302982039.028837
-e302982039.497836
-r1
-xCompileXIB
-x/Users/reddavis/Documents/projects/cocoa/ApacheBench/English.lproj/MainMenu.xib
-lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib302982039#302982039#0(0"0(0#0#79"/Users/reddavis/Documents/projects/cocoa/ApacheBench/English.lproj/MainMenu.xib8633185504#410"    cd /Users/reddavis/Documents/projects/cocoa/ApacheBench    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/Resources/English.lproj/MainMenu.nib /Users/reddavis/Documents/projects/cocoa/ApacheBench/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
-
-CCopyStringsFile /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s302982821.094564
-e302982821.451367
-r1
-xCopyStringsFile
-x/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings302982821#302982821#0(0"0(0#0#84"/Users/reddavis/Documents/projects/cocoa/ApacheBench/English.lproj/InfoPlist.strings8644805376#397"    cd /Users/reddavis/Documents/projects/cocoa/ApacheBench    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/Resources/English.lproj0#
-
-CLd /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/MacOS/ApacheBench normal x86_64
-s302982039.713077
-e302982039.759624
-r1
-xLd
-x/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/MacOS/ApacheBench
-xnormal
-xx86_64
-lSLF07#2@112"Link /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/MacOS/ApacheBench302982039#302982039#0(0"0(0#0#0"8650999040#632"    cd /Users/reddavis/Documents/projects/cocoa/ApacheBench    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug -F/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug -filelist /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/Objects-normal/x86_64/ApacheBench.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/MacOS/ApacheBench0#
-
-CProcessInfoPlistFile /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/Info.plist ApacheBench-Info.plist
-s302982821.050437
-e302982821.094460
-r1
-xProcessInfoPlistFile
-x/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/Info.plist
-xApacheBench-Info.plist
-lSLF07#2@30"Process ApacheBench-Info.plist302982821#302982821#0(0"0(0#0#75"/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBench-Info.plist8637945536#364"    cd /Users/reddavis/Documents/projects/cocoa/ApacheBench    builtin-infoPlistUtility ApacheBench-Info.plist -genpkginfo /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app/Contents/Info.plist0#
-
-CProcessPCH /var/folders/IG/IGBU9X11EtSQ0a3FLOQLqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApacheBench_Prefix-bmwfilsaalaxzjbklyafiqumsyvd/ApacheBench_Prefix.pch.gch ApacheBench_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s302900856.635116
-e302900861.086805
-r1
-xProcessPCH
-x/var/folders/IG/IGBU9X11EtSQ0a3FLOQLqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApacheBench_Prefix-bmwfilsaalaxzjbklyafiqumsyvd/ApacheBench_Prefix.pch.gch
-xApacheBench_Prefix.pch
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile ApacheBench_Prefix.pch302900856#302900861#0(0"0(0#0#75"/Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBench_Prefix.pch8633721312#1572"    cd /Users/reddavis/Documents/projects/cocoa/ApacheBench    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-generated-files.hmap -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-own-target-headers.hmap -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-all-target-headers.hmap -iquote /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/ApacheBench-project-headers.hmap -F/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/include -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/DerivedSources/x86_64 -I/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/ApacheBench.build/Debug/ApacheBench.build/DerivedSources -c /Users/reddavis/Documents/projects/cocoa/ApacheBench/ApacheBench_Prefix.pch -o /var/folders/IG/IGBU9X11EtSQ0a3FLOQLqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApacheBench_Prefix-bmwfilsaalaxzjbklyafiqumsyvd/ApacheBench_Prefix.pch.gch0#
-
-CTouch /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app
-s302982821.451819
-e302982821.454888
-r1
-xTouch
-x/Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app
-lSLF07#2@86"Touch /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app302982821#302982821#0(0"0(0#0#0"8631354752#163"    cd /Users/reddavis/Documents/projects/cocoa/ApacheBench    /usr/bin/touch -c /Users/reddavis/Documents/projects/cocoa/ApacheBench/build/Debug/ApacheBench.app0#
-
